@@ -4,7 +4,7 @@
 
 ## 细则
 
-* **使用两个空格**进行缩进。
+* **使用四个空格**进行缩进。
 
   eslint: [`indent`](http://eslint.org/docs/rules/indent)
 
